@@ -1,0 +1,142 @@
+{
+    "categories": [
+      {
+        "category": "Vegetables",
+        "data": [
+          { "name": "Onion" },
+          { "name": "Garlic" },
+          { "name": "Tomato" },
+          { "name": "Potato" },
+          { "name": "Carrot" },
+          { "name": "Bell Pepper" },
+          { "name": "Spinach" },
+          { "name": "Cauliflower" },
+          { "name": "Broccoli" },
+          { "name": "Green Beans" },
+          { "name": "Cabbage" },
+          { "name": "Mushroom" },
+          { "name": "Pumpkin" },
+          { "name": "Zucchini" },
+          { "name": "Corn" }
+        ]
+      },
+      {
+        "category": "Fruits",
+        "data": [
+          { "name": "Apple" },
+          { "name": "Banana" },
+          { "name": "Orange" },
+          { "name": "Lemon" },
+          { "name": "Strawberry" },
+          { "name": "Mango" },
+          { "name": "Avocado" },
+          { "name": "Grapes" },
+          { "name": "Pineapple" },
+          { "name": "Papaya" }
+        ]
+      },
+      {
+        "category": "Dairy",
+        "data": [
+          { "name": "Milk" },
+          { "name": "Butter" },
+          { "name": "Cheese" },
+          { "name": "Yogurt" },
+          { "name": "Cream" },
+          { "name": "Paneer" },
+          { "name": "Ghee" }
+        ]
+      },
+      {
+        "category": "Meat & Eggs",
+        "data": [
+          { "name": "Chicken" },
+          { "name": "Beef" },
+          { "name": "Pork" },
+          { "name": "Fish" },
+          { "name": "Eggs" },
+          { "name": "Shrimp" },
+          { "name": "Mutton" },
+          { "name": "Turkey" }
+        ]
+      },
+      {
+        "category": "Grains & Cereals",
+        "data": [
+          { "name": "Rice" },
+          { "name": "Wheat Flour" },
+          { "name": "Oats" },
+          { "name": "Bread" },
+          { "name": "Pasta" },
+          { "name": "Cornflakes" },
+          { "name": "Semolina (Sooji)" }
+        ]
+      },
+      {
+        "category": "Spices & Herbs",
+        "data": [
+          { "name": "Salt" },
+          { "name": "Black Pepper" },
+          { "name": "Cumin" },
+          { "name": "Coriander" },
+          { "name": "Turmeric" },
+          { "name": "Chili Powder" },
+          { "name": "Oregano" },
+          { "name": "Basil" },
+          { "name": "Thyme" },
+          { "name": "Cinnamon" }
+        ]
+      },
+      {
+        "category": "Condiments & Sauces",
+        "data": [
+          { "name": "Soy Sauce" },
+          { "name": "Tomato Ketchup" },
+          { "name": "Mayonnaise" },
+          { "name": "Mustard" },
+          { "name": "Vinegar" },
+          { "name": "Hot Sauce" },
+          { "name": "Chili Sauce" },
+          { "name": "Barbecue Sauce" }
+        ]
+      },
+      {
+        "category": "Canned & Jarred",
+        "data": [
+          { "name": "Canned Beans" },
+          { "name": "Tomato Paste" },
+          { "name": "Canned Corn" },
+          { "name": "Coconut Milk" },
+          { "name": "Pickles" },
+          { "name": "Jam" }
+        ]
+      },
+      {
+        "category": "Baking Essentials",
+        "data": [
+          { "name": "All-purpose Flour" },
+          { "name": "Baking Powder" },
+          { "name": "Baking Soda" },
+          { "name": "Yeast" },
+          { "name": "Sugar" },
+          { "name": "Brown Sugar" },
+          { "name": "Vanilla Extract" },
+          { "name": "Cocoa Powder" },
+          { "name": "Condensed Milk" }
+        ]
+      },
+      {
+        "category": "Nuts & Seeds",
+        "data": [
+          { "name": "Peanuts" },
+          { "name": "Almonds" },
+          { "name": "Cashews" },
+          { "name": "Walnuts" },
+          { "name": "Sesame Seeds" },
+          { "name": "Flax Seeds" },
+          { "name": "Sunflower Seeds" },
+          { "name": "Chia Seeds" }
+        ]
+      }
+    ]
+  }
